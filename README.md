@@ -14,3 +14,5 @@ contoh : 127.0.0.1:8080/rate/USD/IDR
 
 - USD = Mata uang awal
 - IDR = Mata uang tujuan
+
+- package : http://fixer.io/

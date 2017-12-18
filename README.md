@@ -9,7 +9,7 @@ Cara menggunakan :
 4. php artisan key:generate
 5. php artisan serve
 
-Buka browser kmudian ketikan : 
+Buka browser kmudian ketikan : <br>
 contoh : 127.0.0.1:8080/rate/USD/IDR
 
 - USD = Mata uang awal

@@ -1,0 +1,13 @@
+{
+    "name": "zakka/rate",
+    "description": "Package to integrate fixer.io with laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zakka",
+            "email": "zakkamusaddid@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

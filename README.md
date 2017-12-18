@@ -1,6 +1,6 @@
 # laravel-fixer.io
 Integrasi laravel dengan fixer.io<br>
-Fixer.io adalah sebuah website dimana kita dapat mengetahui nilai tukar mata uang saat ini.
+Fixer.io adalah sebuah package dimana kita dapat mengetahui nilai tukar mata uang saat ini.
 
 Cara menggunakan :
 1. git clone https://github.com/djack-acoustic/laravel-fixer.io.git
